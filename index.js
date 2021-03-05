@@ -21,7 +21,7 @@ const NOTES = args.notes;
 const EXCLUDE_TAGS = args.exclude;
 const OUTPUT_DIRECTORY = path.resolve("pumpkin", ".");
 const OUTPUT_FILE = path.resolve(`${OUTPUT_DIRECTORY}/report.html`, ".");
-const STATUS_TYPES = ["Not run", "Descoped", "In Progress", "Passed", "Failed", "Blocked"];
+const STATUS_TYPES = ["Not run", "skipped", "In Progress", "Passed", "Failed", "undefined"];
 
 function printOkMessage(message) {
   console.log(message.green);
