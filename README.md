@@ -62,4 +62,4 @@ The Cypress Cucumber plugin writes a new .json report for each completed feature
 
 ![Cypress-example](https://user-images.githubusercontent.com/67916766/110174042-659b4200-7df7-11eb-975f-c599e74b3d08.png)
 
-<img src="https://user-images.githubusercontent.com/67916766/110174042-659b4200-7df7-11eb-975f-c599e74b3d08.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/67916766/110174042-659b4200-7df7-11eb-975f-c599e74b3d08.png" width="500" height="300">
